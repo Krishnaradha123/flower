@@ -1,5 +1,5 @@
 import turtle as tur
-tur.title("For Beautiful Subhashree")
+tur.title("For beautiful subhashree")
 
 # Set initial position
 tur.penup ()
@@ -87,6 +87,6 @@ tur.right (90)
 tur.circle (200,60)
 
 
-tur.write("You are my happiness Shree🌷", align= "left", font=("Times New Roman", 25, "bold"))
+tur.write("This is for my shree🌷❤️", align= "left", font=("Times New Roman", 25, "bold"))
 
 tur.done()
