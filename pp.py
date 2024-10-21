@@ -1,5 +1,5 @@
 import turtle as tur
-tur.title("Problem Solve with Ridoy")
+tur.title("For Beautiful Subhashree")
 
 # Set initial position
 tur.penup ()
